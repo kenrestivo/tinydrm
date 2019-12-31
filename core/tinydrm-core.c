@@ -15,6 +15,7 @@
 #include <drm/tinydrm/tinydrm.h>
 #include <linux/device.h>
 #include <linux/dma-buf.h>
+#include <linux/module.h>
 
 /**
  * DOC: overview
