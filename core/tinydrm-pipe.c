@@ -12,6 +12,8 @@
 #include <drm/drm_gem_framebuffer_helper.h>
 #include <drm/drm_modes.h>
 #include <drm/tinydrm/tinydrm.h>
+#include <drm/drm_probe_helper.h>
+#include <drm/drm_drv.h>
 
 struct tinydrm_connector {
 	struct drm_connector base;
